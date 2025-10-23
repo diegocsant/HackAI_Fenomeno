@@ -1,5 +1,6 @@
-He mandado una carpeta con un creador de mapas por si es útil y con el propio evaluador (sin modificar)
-porque me estaba dando problemas al ejecutarlo en la carpeta que nos mandaste.
+He mandado una carpeta con un creador de mapas por si es útil y con el propio evaluador (sin modificar) porque me estaba dando problemas al ejecutarlo en la carpeta que nos mandaste.
+
+Por favor, crea una carpeta "entradas" y una carpeta "salidas" para que el programa funcione correctamente, no sé hacerlo en GitHub (lo siento, no estoy familiarizado con esto!).
 
 
 Ahora sí, el README:
